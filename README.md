@@ -250,6 +250,7 @@ smart-receipt/
 - [ ] Batch processing endpoint
 - [ ] Webhook callbacks for async extraction
 - [ ] Multi-tenant API key authentication
+- [ ] Deployment With Hugging face for Demo
 
 ---
 
